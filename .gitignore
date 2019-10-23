@@ -1,0 +1,6 @@
+*.p8
+local_settings.py
+venv
+cache.html
+.idea
+__pycache__
